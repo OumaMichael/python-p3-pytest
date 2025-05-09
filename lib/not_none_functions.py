@@ -1,2 +1,4 @@
-def return_not_none():
-    return None
+
+def not_none(value):
+
+    return value is not None

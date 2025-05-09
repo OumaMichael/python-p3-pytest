@@ -1,6 +1,9 @@
-def return_string():
-    return ''
 
-def interpolate_string(s):
-    return f'Hello, {s}!'
+
+def return_string():
     
+    return "hello, world"
+
+def interpolate_string(name):
+    
+    return f"Hello, {name}!"
